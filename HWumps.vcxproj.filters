@@ -27,16 +27,16 @@
     <ClCompile Include="Entrance.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="EntryRoom.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Menu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Pit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Wumps.cpp">
+    <ClCompile Include="Wumpus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EmptyRoom.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -50,16 +50,16 @@
     <ClInclude Include="Entrance.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="EntryRoom.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Menu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Pit.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Wumps.h">
+    <ClInclude Include="Wumpus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EmptyRoom.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

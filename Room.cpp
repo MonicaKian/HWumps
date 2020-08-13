@@ -6,17 +6,17 @@ Room::Room()
 
 std::string Room::getApproachMesage()
 {
-	return std::string();
+	return std::string("Approaching");
 }
 
 std::string Room::getShootMesage()
 {
-	return std::string();
+	return std::string("Shooting");
 }
 
 std::string Room::getEnterMesage()
 {
-	return std::string();
+	return std::string("Room Message");
 }
 
 Room Room::getDirection(int direction)

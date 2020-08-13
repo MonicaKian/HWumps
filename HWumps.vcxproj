@@ -152,22 +152,22 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Entrance.cpp" />
-    <ClCompile Include="EntryRoom.cpp" />
+    <ClCompile Include="EmptyRoom.cpp" />
     <ClCompile Include="HWumps.cpp" />
     <ClCompile Include="Menu.cpp" />
     <ClCompile Include="Pit.cpp" />
     <ClCompile Include="Room.cpp" />
     <ClCompile Include="RoomBuilder.cpp" />
-    <ClCompile Include="Wumps.cpp" />
+    <ClCompile Include="Wumpus.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Entrance.h" />
-    <ClInclude Include="EntryRoom.h" />
+    <ClInclude Include="EmptyRoom.h" />
     <ClInclude Include="Menu.h" />
     <ClInclude Include="Pit.h" />
     <ClInclude Include="Room.h" />
     <ClInclude Include="RoomBuilder.h" />
-    <ClInclude Include="Wumps.h" />
+    <ClInclude Include="Wumpus.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

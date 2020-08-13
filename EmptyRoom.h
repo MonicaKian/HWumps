@@ -1,9 +1,9 @@
 #pragma once
 #include "Room.h"
-class Pit :public Room
+class EmptyRoom :public Room
 {
 public:
-	Pit();
+	EmptyRoom();
 	std::string getApproachMesage();
 	std::string getShootMesage();
 	std::string getEnterMesage();
